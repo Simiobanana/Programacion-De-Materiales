@@ -3090,3 +3090,1051 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.05.17-16.42.30:046][489]LogEditorTransaction: Undo Clicking on Elements
 [2024.05.17-16.42.32:136][587]Cmd: TRANSACTION UNDO
 [2024.05.17-16.42.32:137][587]LogEditorTransaction: Undo Create Actors
+[2024.05.17-16.44.19:366][298]Cmd: TRANSACTION UNDO
+[2024.05.17-16.44.19:366][298]LogEditorTransaction: Undo Create Actors
+[2024.05.17-16.46.49:100][ 91]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-16.46.49:194][ 91]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-16.46.49:207][ 92]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-16.46.55:236][454]LogContentBrowser: Attempting asset rename: NewFolder -> Emmisive_Color
+[2024.05.17-16.46.55:236][454]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-16.47.01:882][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.47.02:032][813]LogSavePackage: Moving output files for package: /Game/Materials/Emmisive_Color/I_Emmisive_Cyan
+[2024.05.17-16.47.02:032][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/I_Emmisive_Cyan7DBEAA9C4CDDCD6C1CFE0192C5091C76.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Color/I_Emmisive_Cyan.uasset'
+[2024.05.17-16.47.02:033][813]LogSavePackage: Moving output files for package: /Game/Materials/I_Emmisive_Cyan
+[2024.05.17-16.47.02:034][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/I_Emmisive_Cyan93E2FB0E4978F03517E2FF90E5794E07.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Cyan.uasset'
+[2024.05.17-16.47.02:040][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.17-16.47.02:047][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-16.47.02:049][813]LogSavePackage: Moving output files for package: /Game/Materials/Emmisive_Color/I_Emmisive_Green
+[2024.05.17-16.47.02:049][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/I_Emmisive_Green95399FEE4CFDBEE54294F69599402382.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Color/I_Emmisive_Green.uasset'
+[2024.05.17-16.47.02:051][813]LogSavePackage: Moving output files for package: /Game/Materials/I_Emmisive_Green
+[2024.05.17-16.47.02:051][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/I_Emmisive_Green08B55D414928CC5C96AA028F2EFEBB47.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Green.uasset'
+[2024.05.17-16.47.02:053][813]LogSavePackage: Moving output files for package: /Game/Materials/Emmisive_Color/Instance_Emmisive
+[2024.05.17-16.47.02:053][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Instance_Emmisive0D1B10124150F585F56363A9D592368B.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Color/Instance_Emmisive.uasset'
+[2024.05.17-16.47.02:056][813]LogSavePackage: Moving output files for package: /Game/Materials/Emmisive_Color/Emmisive
+[2024.05.17-16.47.02:056][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Emmisive9FD146B64DA16960C04DE999BCAEEA0C.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Color/Emmisive.uasset'
+[2024.05.17-16.47.02:058][813]LogSavePackage: Moving output files for package: /Game/Materials/Emmisive
+[2024.05.17-16.47.02:059][813]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Emmisive87D2025F405B75F5914B5798AC5F1E44.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive.uasset'
+[2024.05.17-16.47.02:067][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 185 ms (total: 11.6 sec)
+[2024.05.17-16.47.02:074][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.17-16.47.02:079][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.17-16.47.02:083][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.17-16.47.02:186][813]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Emmisive_Color/I_Emmisive_Cyan.I_Emmisive_Cyan
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/I_Emmisive_Cyan.I_Emmisive_Cyan
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Emmisive_Color/I_Emmisive_Green.I_Emmisive_Green
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/I_Emmisive_Green.I_Emmisive_Green
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/Emmisive_Color/Instance_Emmisive.Instance_Emmisive
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Emmisive_Color/Emmisive.Emmisive
+[2024.05.17-16.47.02:186][813]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/Emmisive.Emmisive
+[2024.05.17-16.47.06:211][ 23]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-16.47.06:342][ 23]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-16.47.06:354][ 24]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-16.47.10:528][271]LogContentBrowser: Attempting asset rename: NewFolder -> BaseColor
+[2024.05.17-16.47.10:528][271]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-16.47.13:351][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.47.13:498][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.17-16.47.13:503][421]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-16.47.13:505][421]LogSavePackage: Moving output files for package: /Game/Materials/BaseColor/Metal
+[2024.05.17-16.47.13:505][421]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Metal10D1279D47A69B8FE789A2879C02517C.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/BaseColor/Metal.uasset'
+[2024.05.17-16.47.13:507][421]LogSavePackage: Moving output files for package: /Game/Materials/Metal
+[2024.05.17-16.47.13:507][421]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Metal0A19EF9141F6928BA5E6FEA762DF1C71.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Metal.uasset'
+[2024.05.17-16.47.13:510][421]LogSavePackage: Moving output files for package: /Game/Materials/BaseColor/BaseColor
+[2024.05.17-16.47.13:510][421]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/BaseColorAC415A714F94FB97698724A56995D9D7.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/BaseColor/BaseColor.uasset'
+[2024.05.17-16.47.13:511][421]LogSavePackage: Moving output files for package: /Game/Materials/BaseColor
+[2024.05.17-16.47.13:512][421]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/BaseColor655EA09C4E5F567DC2F0B9BBDBADCE3A.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/BaseColor.uasset'
+[2024.05.17-16.47.13:522][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 11.8 sec)
+[2024.05.17-16.47.13:624][421]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-16.47.13:624][421]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/BaseColor/Metal.Metal
+[2024.05.17-16.47.13:624][421]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/Metal.Metal
+[2024.05.17-16.47.13:624][421]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/BaseColor/BaseColor.BaseColor
+[2024.05.17-16.47.13:624][421]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Materials/BaseColor.BaseColor
+[2024.05.17-16.47.38:546][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.05.17-16.47.38:549][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto7
+[2024.05.17-16.47.38:549][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/TS5OQ5CRUWFZYL1ZQ7I416_Auto76EBB1CC4443B093581EA0DBA9E7E61E9.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto7.uasset'
+[2024.05.17-16.47.38:551][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM_Auto7
+[2024.05.17-16.47.38:551][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/SOSBL9K9ALL8LPDWZIEZIM_Auto771BCB1E54F4E1090107223B09D3B0BD6.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM_Auto7.uasset'
+[2024.05.17-16.47.38:553][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RI/UNWHOVCTTQMGFWHZI4DLY7_Auto7
+[2024.05.17-16.47.38:553][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/UNWHOVCTTQMGFWHZI4DLY7_Auto7AC6F6A674C13974A3AD3B79352D77FEE.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RI/UNWHOVCTTQMGFWHZI4DLY7_Auto7.uasset'
+[2024.05.17-16.47.38:554][504]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2024.05.17-16.47.38:554][504]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.012
+[2024.05.17-16.47.38:554][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/neon_sword_Box001] ([1] browsable assets)...
+[2024.05.17-16.47.38:554][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/neon_sword_Box001]
+[2024.05.17-16.47.38:557][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/neon_sword_Box001_Auto7
+[2024.05.17-16.47.38:557][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/neon_sword_Box001_Auto7FEC900E24979A27ACF33D985B8EC8AEE.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/neon_sword_Box001_Auto7.uasset'
+[2024.05.17-16.47.38:558][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/14_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:558][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/14_-_Default]
+[2024.05.17-16.47.38:560][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/14_-_Default_Auto7
+[2024.05.17-16.47.38:560][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/14_-_Default_Auto7B35284A8412131ECAC096584D73BDD1A.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/14_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:561][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/neon_sword_Tube001] ([1] browsable assets)...
+[2024.05.17-16.47.38:561][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/neon_sword_Tube001]
+[2024.05.17-16.47.38:564][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/neon_sword_Tube001_Auto7
+[2024.05.17-16.47.38:564][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/neon_sword_Tube001_Auto72A0034DB434EA899045E548D7EA4B8C5.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/neon_sword_Tube001_Auto7.uasset'
+[2024.05.17-16.47.38:565][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/21_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:565][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/21_-_Default]
+[2024.05.17-16.47.38:566][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/21_-_Default_Auto7
+[2024.05.17-16.47.38:566][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/21_-_Default_Auto713CE76B6430E3A807FFA658940E804BA.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/21_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:567][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/20_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:567][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/20_-_Default]
+[2024.05.17-16.47.38:568][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/20_-_Default_Auto7
+[2024.05.17-16.47.38:568][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/20_-_Default_Auto7192FCC8C4C3A29906A84CE8483038DE1.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/20_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:569][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/19_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:569][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/19_-_Default]
+[2024.05.17-16.47.38:570][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/19_-_Default_Auto7
+[2024.05.17-16.47.38:570][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/19_-_Default_Auto7CBC3604C4FA9F8AAB182458223F151BF.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/19_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:571][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/08_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:571][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/08_-_Default]
+[2024.05.17-16.47.38:572][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/08_-_Default_Auto7
+[2024.05.17-16.47.38:572][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/08_-_Default_Auto7EC2E0F704BE96D93384672A6BA1393DC.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/08_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:573][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/02_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:573][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/02_-_Default]
+[2024.05.17-16.47.38:574][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/02_-_Default_Auto7
+[2024.05.17-16.47.38:574][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/02_-_Default_Auto793FC3D9642200B34364E96B167200A14.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/02_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:575][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/13_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:575][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/13_-_Default]
+[2024.05.17-16.47.38:576][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/13_-_Default_Auto7
+[2024.05.17-16.47.38:576][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/13_-_Default_Auto73BBAF8C14C8BF074F71047B926D37EC5.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/13_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:577][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/15_-_Default] ([1] browsable assets)...
+[2024.05.17-16.47.38:577][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/15_-_Default]
+[2024.05.17-16.47.38:578][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/15_-_Default_Auto7
+[2024.05.17-16.47.38:578][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/15_-_Default_Auto71208C93B466075605FF8FEAA163A4EC5.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/15_-_Default_Auto7.uasset'
+[2024.05.17-16.47.38:579][504]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Ramen_soup_neon1] ([1] browsable assets)...
+[2024.05.17-16.47.38:579][504]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Ramen_soup_neon1]
+[2024.05.17-16.47.38:580][504]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Ramen_soup_neon1_Auto7
+[2024.05.17-16.47.38:580][504]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Ramen_soup_neon1_Auto7844B4027495A075F00B0348707E9F508.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/Ramen_soup_neon1_Auto7.uasset'
+[2024.05.17-16.47.38:581][504]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.05.17-16.52.10:535][950]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.52.10:535][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.52.11:746][ 21]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.52.11:746][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.52.12:747][ 79]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.52.12:747][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.52.13:333][112]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.52.13:333][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.52.13:785][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.52.13:786][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.52.35:024][  5]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.05.17-16.54.46:001][396]LogSlate: Window 'Login' being destroyed
+[2024.05.17-16.55.06:594][459]LogWindows: LaunchURL https://quixel.com/pricing
+[2024.05.17-16.55.40:688][232]LogWindows: LaunchURL https://quixel.com/pricing
+[2024.05.17-16.56.09:861][446]LogWindows: LaunchURL https://quixel.com/pricing
+[2024.05.17-16.56.47:332][744]LogSlate: Window 'Bridge' being destroyed
+[2024.05.17-16.56.47:338][744]LogSlate: Window 'Bridge' being destroyed
+[2024.05.17-16.56.47:339][744]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.05.17-16.56.47:339][744]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/home?category=surface&search=wall.
+[2024.05.17-16.57.54:174][234]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/T_RoughBrickWall_ufiiaayew_2K_ORDp.T_RoughBrickWall_ufiiaayew_2K_ORDp (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.05.17-16.57.54:176][234]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/T_Rough_Brick_Wall_ufiiaayew_2K_N.T_Rough_Brick_Wall_ufiiaayew_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 397.562488 MB), EncodeSpeed: Fast
+[2024.05.17-16.57.54:296][235]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/T_Rough_Brick_Wall_ufiiaayew_2K_D.T_Rough_Brick_Wall_ufiiaayew_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 296.062483 MB), EncodeSpeed: Fast
+[2024.05.17-16.58.03:063][745]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.17-16.58.03:070][745]LogSlate: Window 'Content Browser' being destroyed
+[2024.05.17-16.58.05:225][872]LogSlate: Window 'Bridge' being destroyed
+[2024.05.17-16.58.05:231][872]LogSlate: Window 'Bridge' being destroyed
+[2024.05.17-16.58.05:232][872]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.05.17-16.58.05:232][872]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.3/Engine/Plugins/Bridge/ThirdParty/megascans/index.html?token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJldG91cnZpZXRhQGdtYWlsLmNvbSIsInNjb3BlIjpbImRlZmF1bHQ6dXNlciIsIm1lZ2FzY2Fuczp1c2VyIl0sImVwaWNBY2NvdW50SWQiOiJjOGNiYzk1OGZiYWY0YTZkOWFkYTcxN2FjZGIyNDY1NSIsImlzVW5yZWFsRVVMQUFjY2VwdGVkIjp0cnVlLCJpc0VwaWNBY2NvdW50Ijp0cnVlLCJxdWl4ZWxBY2NvdW50SWQiOiJjNjE3ZTk5OS01MTNjLTRhMmEtYTJjYi0zZTUzNjgxOTAwMTYiLCJyZWFsbSI6Im1lZ2FzY2FucyIsImV1bGFzQWNjZXB0ZWQiOlsidWUiLCJtaGMiLCJlcGljX2NvbnRlbnQiXSwiaWF0IjoxNzE1OTY0ODg3LCJleHAiOjE3MTU5OTM2ODcsImlzcyI6InF1aXhlbC1zc28tcHJvZCIsImp0aSI6Ijc2NGVjZTUzLWNkMDktNDJkZC1hZmEzLTllNTQ4Y2YxNmZmMCJ9.qE4J3oZIsoSKAPcdQwr2mANDMaOOskdNZtPjIJGIbvyQett9QuMTuh97tzHTZvxy8j73--HtX49VNDuGEt0ZVNC8EGihJgIxu8w6JJKqB9Q4H_PY6TravZpFBqkdX8Vl8yVrYxnokBocD6mV9l8r7YWq3ck4Q9ctMIj6qBwzbPsmZ8Xm4hPYKyCoChA8NX37hU5O14wXZlQH2Zmwhe0mp6R3uVxt7Zy_D9I6-UbTAvX1jRfHU2YOLbHyYSCVslInCOxrlqzzBXdg9DotydtvHrE0syHUTHbtHDRRu3HJFOSWeflkdTuvl65to7sZ3yHnugypg7Ugrl_Q3egTJ-uAfg&refreshToken=NTk3ODhkNDItNTRkOS00MGI2LWJhNGMtMjAxY2RkNDRmMjE1#/megascans/collections?category=essential&category=surface&search=wall&search=brick.
+[2024.05.17-16.58.56:994][ 51]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K.MI_Rough_Brick_Wall_ufiiaayew_2K
+[2024.05.17-16.58.56:996][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-16.58.56:996][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-16.58.57:241][ 51]LogViewport: Scene viewport resized to 864x532, mode Windowed.
+[2024.05.17-16.59.01:279][254]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.05.17-16.59.01:279][254]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=5ab19b5ff58f42dc950459f0b9dab92e.
+[2024.05.17-16.59.01:280][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.17-16.59.01:296][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto8
+[2024.05.17-16.59.01:296][254]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/TS5OQ5CRUWFZYL1ZQ7I416_Auto83B23136048EE2D4DCDFE11B817F4D0BB.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416_Auto8.uasset'
+[2024.05.17-16.59.01:299][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR_Auto8
+[2024.05.17-16.59.01:299][254]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/BY1DA5CRGQSAMOTK8RA8KR_Auto888DC2EEE48B52F1A97D929A2D0F9BF05.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR_Auto8.uasset'
+[2024.05.17-16.59.01:300][254]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.028
+[2024.05.17-16.59.01:300][254]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.05.17-16.59.01:300][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K] ([1] browsable assets)...
+[2024.05.17-16.59.01:334][254]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K.MI_Rough_Brick_Wall_ufiiaayew_2K]
+[2024.05.17-16.59.01:334][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K]
+[2024.05.17-16.59.01:338][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.17-16.59.01:380][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-16.59.01:382][254]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K_Auto8
+[2024.05.17-16.59.01:383][254]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/MI_Rough_Brick_Wall_ufiiaayew_2KC96E19364CD38A994605099B47E203FC.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K_Auto8.uasset'
+[2024.05.17-16.59.01:383][254]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.05.17-16.59.12:390][903]LogDerivedDataCache: C:/Users/betou/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 739 files in 1337 folders with total size 42 MiB.
+[2024.05.17-16.59.18:519][269]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.59.18:652][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-16.59.18:659][269]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-16.59.18:661][269]LogSavePackage: Moving output files for package: /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K
+[2024.05.17-16.59.18:661][269]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/MI_Rough_Brick_Wall_ufiiaayew_2K4143C7D346AC2275F99ED89FF12BD3EC.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K.uasset'
+[2024.05.17-16.59.18:670][269]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 11.9 sec)
+[2024.05.17-16.59.18:672][269]AssetCheck: New page: Asset Save: MI_Rough_Brick_Wall_ufiiaayew_2K
+[2024.05.17-16.59.18:672][269]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Megascans/Surfaces/Rough_Brick_Wall_ufiiaayew/MI_Rough_Brick_Wall_ufiiaayew_2K.MI_Rough_Brick_Wall_ufiiaayew_2K
+[2024.05.17-16.59.19:376][310]LogSlate: Window 'MI_Rough_Brick_Wall_ufiiaayew_2K' being destroyed
+[2024.05.17-16.59.19:382][310]LogSlate: Window 'MI_Rough_Brick_Wall_ufiiaayew_2K' being destroyed
+[2024.05.17-16.59.19:390][310]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-16.59.19:390][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-16.59.57:320][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-16.59.57:416][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY
+[2024.05.17-16.59.57:417][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/U98KGKQ41NJYFOGFQM8ZDY19E93BE147650C98241EE88BF67B25F0.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset'
+[2024.05.17-16.59.57:419][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416
+[2024.05.17-16.59.57:420][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/TS5OQ5CRUWFZYL1ZQ7I4163EC467F8455C14C3AADADB87449F920D.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset'
+[2024.05.17-16.59.57:422][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6
+[2024.05.17-16.59.57:423][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/MRHJREJ6H7USQYWF1KO8F6C79AB6EE4733364EA719E6A9C53F0300.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset'
+[2024.05.17-16.59.57:425][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR
+[2024.05.17-16.59.57:426][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/BY1DA5CRGQSAMOTK8RA8KR0DE158984D4E75664A2FCCBE0DD80274.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset'
+[2024.05.17-16.59.57:429][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q
+[2024.05.17-16.59.57:429][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/JNKFA4X9LRMSF343ESPF6QD3A4829A4D1F73293A29139D15C08C64.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset'
+[2024.05.17-16.59.57:431][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM
+[2024.05.17-16.59.57:432][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/SOSBL9K9ALL8LPDWZIEZIM7CDEF72542616E95A49BF1AC0E1D6305.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM.uasset'
+[2024.05.17-16.59.57:434][498]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RI/UNWHOVCTTQMGFWHZI4DLY7
+[2024.05.17-16.59.57:434][498]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/UNWHOVCTTQMGFWHZI4DLY781E81D514EA826F6BB0DD98A9EACC09F.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RI/UNWHOVCTTQMGFWHZI4DLY7.uasset'
+[2024.05.17-16.59.57:450][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 12.1 sec)
+[2024.05.17-16.59.57:453][498]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_4
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.DirectionalLight_0
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_5
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_6
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74D4DD044C9B6BF601_1401652773
+[2024.05.17-16.59.57:453][498]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_74D4DD044C9B6CF601_1331581956
+[2024.05.17-17.07.26:421][136]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.05.17-17.07.26:517][136]LogContentBrowser: Creating deferred item: NewFolder
+[2024.05.17-17.07.26:532][137]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.05.17-17.07.29:612][321]LogContentBrowser: Attempting asset rename: NewFolder -> Hielo
+[2024.05.17-17.07.29:613][321]LogContentBrowser: End creating deferred item NewFolder
+[2024.05.17-17.07.33:627][485]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.05.17-17.07.33:636][485]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.05.17-17.07.33:692][487]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.05.17-17.07.38:708][786]LogContentBrowser: Attempting asset rename: NewMaterial -> Hielo
+[2024.05.17-17.07.38:709][786]LogContentBrowser: End creating deferred item NewMaterial
+[2024.05.17-17.07.40:472][889]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Hielo/Hielo.Hielo
+[2024.05.17-17.07.40:476][889]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.07.40:476][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.07.40:631][889]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.07.40:631][889]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.07.40:631][889]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.07.40:639][889]LogViewport: Scene viewport resized to 240x264, mode Windowed.
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Total job queries 1169, among them cache hits 975 (83.40%)
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Tracking 194 distinct input hashes that result in 107 distinct outputs (55.15%)
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: RAM used: 4,55 MiB of 819,20 MiB budget. Usage: 0.56%
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Shaders Compiled: 194
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Jobs assigned 194, completed 194 (100%)
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Average time worker was idle: 219.40 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Shader code size: average 40,864 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.06 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Average processing rate: 10.74 jobs/sec
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Total thread time: 47,631 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Total thread preprocess time: 6,809 s
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Percentage time preprocessing: 14.29%
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.07.40:666][890]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 0.30 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.30 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.19% of total time (compiled   21 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.50% of total time (compiled   21 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.29% of total time (compiled   16 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.90% of total time (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.57% of total time (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.07.40:667][890]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.07.40:719][891]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.07.40:719][891]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.07.40:719][891]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.07.40:719][891]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.07.40:719][891]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.07.43:675][ 67]LogSlate: Window 'Hielo' being destroyed
+[2024.05.17-17.07.43:681][ 67]LogSlate: Window 'Hielo' being destroyed
+[2024.05.17-17.07.43:690][ 67]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.07.43:690][ 67]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.07.58:577][802]LogContentBrowser: Attempting asset rename: Hielo -> Hielo_Graph
+[2024.05.17-17.07.58:603][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.07.58:733][802]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.07.58:733][802]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_GraphEF31A4ED442C42A76A92D988B6AB0EC1.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.07.58:742][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 12.2 sec)
+[2024.05.17-17.07.58:751][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.17-17.07.58:764][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.05.17-17.07.58:769][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-17.07.58:771][802]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.07.58:771][802]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.10.41:108][807]AssetReimport: New page: Outstanding source content changes 6:10:41
+[2024.05.17-17.10.41:139][808]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/T_PerlinNoise.jpg)
+[2024.05.17-17.10.41:144][808]LogFactory: FactoryCreateFile: Texture with TextureFactory (0 0 C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/ICE_Normal.jpg)
+[2024.05.17-17.10.41:214][808]LogTexture: Display: Building textures: /Game/Materials/Hielo/ICE_Normal.ICE_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2024.05.17-17.10.41:256][809]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.10.41:607][809]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/T_PerlinNoise
+[2024.05.17-17.10.41:607][809]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/T_PerlinNoiseD968AAEA484D43F6797854882B15C8B3.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/T_PerlinNoise.uasset'
+[2024.05.17-17.10.41:612][809]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/ICE_Normal
+[2024.05.17-17.10.41:612][809]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/ICE_Normal3A109A67472805BFDF8BB3BBCA9B25FB.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/ICE_Normal.uasset'
+[2024.05.17-17.10.41:644][809]LogFileHelpers: InternalPromptForCheckoutAndSave took 388 ms (total: 12.6 sec)
+[2024.05.17-17.10.41:655][810]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.17-17.10.41:655][810]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Hielo/T_PerlinNoise.T_PerlinNoise
+[2024.05.17-17.10.41:655][810]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Hielo/ICE_Normal.ICE_Normal
+[2024.05.17-17.10.44:673][988]AssetReimport: Importing new asset /Game/Materials/Hielo/T_PerlinNoise.
+[2024.05.17-17.10.44:673][988]AssetReimport: Importing new asset /Game/Materials/Hielo/ICE_Normal.
+[2024.05.17-17.10.50:701][345]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.10.50:704][345]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.17-17.10.50:704][345]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.17-17.10.50:868][345]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.10.50:868][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.10.50:868][345]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.10.50:876][345]LogViewport: Scene viewport resized to 241x265, mode Windowed.
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Total job queries 1175, among them cache hits 981 (83.49%)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Tracking 194 distinct input hashes that result in 107 distinct outputs (55.15%)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: RAM used: 4,55 MiB of 819,20 MiB budget. Usage: 0.56%
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Shaders Compiled: 194
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Jobs assigned 194, completed 194 (100%)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Average time worker was idle: 219.40 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Shader code size: average 40,864 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.06 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Average processing rate: 10.74 jobs/sec
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Total thread time: 47,631 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Total thread preprocess time: 6,809 s
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Percentage time preprocessing: 14.29%
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 0.30 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.30 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.19% of total time (compiled   21 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.50% of total time (compiled   21 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.29% of total time (compiled   16 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.90% of total time (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.57% of total time (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.10.50:901][346]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.10.50:952][347]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.10.50:952][347]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.10.50:952][347]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.10.50:952][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.10.50:952][347]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.11.12:387][619]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.11.12:387][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.11.12:387][619]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.11.12:444][620]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.11.12:444][620]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.11.12:444][620]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.11.12:444][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.11.12:444][620]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.11.21:723][159]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.11.21:723][159]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.11.21:723][159]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.11.21:761][161]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.11.21:761][161]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.11.21:761][161]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.11.21:761][161]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.11.21:761][161]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.12.25:029][826]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.12.25:029][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.12.25:029][826]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.12.25:066][828]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.12.25:066][828]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.12.25:066][828]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.12.25:066][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.12.25:066][828]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Total job queries 1211, among them cache hits 1013 (83.65%)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Tracking 198 distinct input hashes that result in 109 distinct outputs (55.05%)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: RAM used: 4,63 MiB of 819,20 MiB budget. Usage: 0.57%
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Shaders Compiled: 198
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Jobs assigned 198, completed 198 (100%)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Average time worker was idle: 251.78 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Shader code size: average 40,727 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 18.56 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Jobs were issued in 198 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Average processing rate: 10.67 jobs/sec
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Total thread time: 48,461 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Total thread preprocess time: 6,91 s
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Percentage time preprocessing: 14.26%
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Effective parallelization: 2.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   10 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 0.30 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   10 times, average 0.30 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.52% of total time (compiled   22 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.82% of total time (compiled   22 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.63% of total time (compiled   17 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.78% of total time (compiled   10 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.46% of total time (compiled   10 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.16.05:866][790]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.16.19:727][435]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.19:727][435]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.19:727][435]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.19:785][437]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.16.19:785][437]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.16.19:785][437]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.16.19:785][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.19:785][437]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.35:114][220]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.35:114][220]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.35:114][220]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.35:174][222]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.16.35:174][222]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.16.35:174][222]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.16.35:174][222]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.35:174][222]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.39:757][486]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.39:757][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.39:757][486]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.39:886][489]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.16.39:886][489]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.16.39:886][489]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.16.39:886][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.39:886][489]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.43:235][681]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.43:235][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.43:235][681]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.43:366][684]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.16.43:366][684]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.16.43:366][684]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.16.43:366][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.43:366][684]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.44:784][764]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.44:784][764]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.44:784][764]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.44:915][767]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.16.44:915][767]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.16.44:915][767]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.16.44:915][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.16.44:915][767]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.16.51:229][136]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.16.51:229][136]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.16.51:229][136]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.16.51:229][136]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.16.51:692][156]MaterialEditorStats: Shader Count: 3
+[2024.05.17-17.16.52:399][197]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.16.52:482][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.05.17-17.16.52:960][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-17.16.52:970][197]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.16.53:850][197]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.16.53:850][197]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_GraphB5425DEA4745780A954F6D9819B21141.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.16.53:859][197]LogFileHelpers: InternalPromptForCheckoutAndSave took 889 ms (total: 13.5 sec)
+[2024.05.17-17.16.53:861][197]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.16.53:861][197]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.16.53:862][197]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.22.48:322][476]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.22.48:322][476]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.22.48:322][476]LogShaderCompilers: Display: Total job queries 1300, among them cache hits 1078 (82.92%)
+[2024.05.17-17.22.48:322][476]LogShaderCompilers: Display: Tracking 218 distinct input hashes that result in 121 distinct outputs (55.50%)
+[2024.05.17-17.22.48:322][476]LogShaderCompilers: Display: RAM used: 5,10 MiB of 819,20 MiB budget. Usage: 0.62%
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Shaders Compiled: 218
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Jobs assigned 218, completed 218 (100%)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Average time worker was idle: 274.22 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.86 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.30
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Shader code size: average 40,758 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.67 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Jobs were issued in 218 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Average processing rate: 10.55 jobs/sec
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Total thread time: 53,497 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Total thread preprocess time: 7,423 s
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Percentage time preprocessing: 13.87%
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Effective parallelization: 2.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   11 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 0.30 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.81% of total time (compiled   25 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.31% of total time (compiled   25 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.32% of total time (compiled   18 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.77% of total time (compiled   11 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.47% of total time (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.22.48:323][476]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.22.48:992][510]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.23.01:458][167]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.23.01:458][167]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.01:458][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.01:458][167]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.01:500][168]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.23.04:916][301]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.23.04:916][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.04:916][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.04:916][301]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.05:036][304]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.23.40:652][271]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.23.40:652][271]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.40:652][271]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.40:652][271]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.40:781][274]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.23.50:652][618]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.23.50:652][618]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.50:652][618]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.50:652][618]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.23.50:755][619]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.24.08:783][378]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.24.08:783][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.24.08:783][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.24.08:783][378]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.24.08:811][380]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.25.14:637][640]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.25.14:637][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.25.14:637][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.25.14:637][640]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.25.14:769][643]MaterialEditorStats: Base pass shader: 195 instructions
+[2024.05.17-17.25.14:770][643]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.25.14:770][643]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.25.14:770][643]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.25.14:770][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.25.14:770][643]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.25.17:171][781]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.25.17:171][781]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.25.17:171][781]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.25.17:171][781]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.25.17:677][804]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.25.17:677][804]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.25.17:677][804]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.25.17:677][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.25.17:677][804]MaterialEditorStats: Shader Count: 1
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: Base pass shader: 212 instructions
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.25.17:784][810]MaterialEditorStats: Shader Count: 3
+[2024.05.17-17.25.19:863][918]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.25.19:863][918]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.25.19:863][918]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.25.19:863][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.25.19:863][918]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Total job queries 1397, among them cache hits 1163 (83.25%)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Tracking 234 distinct input hashes that result in 127 distinct outputs (54.27%)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: RAM used: 5,42 MiB of 819,20 MiB budget. Usage: 0.66%
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Shaders Compiled: 234
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Jobs assigned 234, completed 234 (100%)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Average time worker was idle: 268.16 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.86 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.30
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Shader code size: average 40,342 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.52 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Jobs were issued in 234 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Average processing rate: 9.95 jobs/sec
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Total thread time: 56,983 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Total thread preprocess time: 7,825 s
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Percentage time preprocessing: 13.73%
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   11 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   11 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   11 times, average 0.30 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.45% of total time (compiled   31 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.15% of total time (compiled   31 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.65% of total time (compiled   20 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.36% of total time (compiled   11 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.07% of total time (compiled   11 times, average 0.31 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.25.54:721][372]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.25.57:310][510]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.25.57:310][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.25.57:310][510]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.25.57:442][513]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.25.57:442][513]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.25.57:442][513]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.25.57:442][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.25.57:442][513]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.26.24:324][428]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.26.24:324][428]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.26.24:324][428]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.26.24:456][431]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.26.24:456][431]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.26.24:456][431]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.26.24:456][431]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.26.24:456][431]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.26.29:500][549]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.26.29:500][549]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.26.29:500][549]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.26.29:640][552]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.26.29:640][552]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.26.29:640][552]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.17-17.26.29:640][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.26.29:640][552]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.26.33:210][661]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.26.33:210][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.26.33:210][661]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.26.52:590][698]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2024.05.17-17.27.01:790][239]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.27.01:847][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.17-17.27.02:569][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-17.27.02:580][239]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.27.03:490][239]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.27.03:490][239]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_GraphAE6624E94FC30D01F56326822723D458.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.27.03:498][239]LogFileHelpers: InternalPromptForCheckoutAndSave took 918 ms (total: 14.4 sec)
+[2024.05.17-17.27.03:500][239]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.27.03:500][239]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: MaxSampler: 235 instructions
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.27.03:501][239]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Total job queries 1471, among them cache hits 1221 (83.00%)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Tracking 250 distinct input hashes that result in 137 distinct outputs (54.80%)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: RAM used: 5,81 MiB of 819,20 MiB budget. Usage: 0.71%
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Shaders Compiled: 250
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Jobs assigned 250, completed 250 (100%)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Average time worker was idle: 258.05 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.86 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Shader code size: average 40,448 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 25.46 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Jobs were issued in 250 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Average processing rate: 9.82 jobs/sec
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Total thread time: 61,651 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Total thread preprocess time: 8,532 s
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Percentage time preprocessing: 13.84%
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.02% of total time (compiled   32 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.70% of total time (compiled   32 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.55% of total time (compiled   21 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.49% of total time (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.21% of total time (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.29.37:451][534]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.29.37:468][535]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.29.37:468][535]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.29.37:468][535]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.29.53:799][320]LogViewport: Scene viewport resized to 374x451, mode Windowed.
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: Total job queries 1489, among them cache hits 1235 (82.94%)
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: Tracking 254 distinct input hashes that result in 139 distinct outputs (54.72%)
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: RAM used: 5,89 MiB of 819,20 MiB budget. Usage: 0.72%
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: Shaders Compiled: 254
+[2024.05.17-17.32.53:252][537]LogShaderCompilers: Display: Jobs assigned 254, completed 254 (100%)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Average time worker was idle: 256.50 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.86 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.30
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Shader code size: average 40,354 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.07 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Jobs were issued in 254 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Average processing rate: 9.74 jobs/sec
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Total thread time: 62,492 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Total thread preprocess time: 8,623 s
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Percentage time preprocessing: 13.80%
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.26% of total time (compiled   33 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.93% of total time (compiled   33 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.81% of total time (compiled   22 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.41% of total time (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.12% of total time (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.32.53:253][537]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.33.29:990][999]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.33.30:074][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.05.17-17.33.30:299][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-17.33.30:310][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.33.30:468][999]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.33.30:469][999]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_Graph756C850942FD83468443808E2447FC8A.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.33.30:477][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 14.6 sec)
+[2024.05.17-17.33.30:479][999]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.33.30:479][999]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: MaxSampler: 235 instructions
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.33.30:479][999]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.34.00:159][486]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.34.00:159][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.17-17.34.00:159][486]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.35.11:830][756]LogEditorTransaction: Undo Move Node
+[2024.05.17-17.35.16:387][  3]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.low_Neon_sign_Mat:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.Hielo_Graph:MaterialGraph_0.MaterialGraphNode_3
+[2024.05.17-17.35.16:387][  3]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_3.MaterialExpressionTextureCoordinate_0'")'
+[2024.05.17-17.35.16:387][  3]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_4 while ResolveName, will return /Engine/Transient.low_Neon_sign_Mat:MaterialGraph_0.MaterialGraphNode_4 but could also be: /Engine/Transient.Hielo_Graph:MaterialGraph_0.MaterialGraphNode_4
+[2024.05.17-17.35.16:387][  3]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_4.MaterialExpressionScalarParameter_0'")'
+[2024.05.17-17.35.42:079][202]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.35.42:079][202]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.35.42:079][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.35.42:079][202]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.36.11:081][557]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.36.11:121][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Total job queries 1609, among them cache hits 1355 (84.21%)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Tracking 254 distinct input hashes that result in 139 distinct outputs (54.72%)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: RAM used: 5,89 MiB of 819,20 MiB budget. Usage: 0.72%
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Shaders Compiled: 254
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Jobs assigned 254, completed 254 (100%)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Average time worker was idle: 256.50 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 0.86 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.30
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Shader code size: average 40,354 KiB, min 29,613 KiB, max 62,066 KiB
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.07 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Jobs were issued in 254 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Average processing rate: 9.74 jobs/sec
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Total thread time: 62,492 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Total thread preprocess time: 8,623 s
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Percentage time preprocessing: 13.80%
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   12 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   12 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.26% of total time (compiled   33 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.93% of total time (compiled   33 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.81% of total time (compiled   22 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.41% of total time (compiled   12 times, average 0.33 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.12% of total time (compiled   12 times, average 0.32 sec, max 0.50 sec, min 0.27 sec)
+[2024.05.17-17.36.11:340][557]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.36.11:345][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.17-17.36.11:356][557]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.36.11:518][557]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.36.11:518][557]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_Graph9FF356DE4E8C01A94E7C61AEB62388C7.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.36.11:527][557]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 14.7 sec)
+[2024.05.17-17.36.11:529][557]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.36.11:529][557]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.36.11:529][557]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.36.24:366][ 18]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.36.24:366][ 18]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.36.24:366][ 18]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.36.24:366][ 18]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.36.42:177][816]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-17.37.03:788][140]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.37.03:827][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.05.17-17.37.04:052][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.17-17.37.04:065][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.37.04:229][140]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.37.04:230][140]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_Graph045A67414FBAB066751BA0B3277223A5.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.37.04:241][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 14.9 sec)
+[2024.05.17-17.37.04:243][140]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.37.04:243][140]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.37.04:244][140]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.37.09:112][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.05.17-17.37.09:114][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.006
+[2024.05.17-17.37.09:114][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/neon_sword_Box001] ([1] browsable assets)...
+[2024.05.17-17.37.09:115][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/neon_sword_Box001]
+[2024.05.17-17.37.09:118][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/neon_sword_Box001_Auto9
+[2024.05.17-17.37.09:118][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/neon_sword_Box001_Auto9B1FD685F46576402FC4A5B83AE33B4DD.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/neon_sword_Box001_Auto9.uasset'
+[2024.05.17-17.37.09:119][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/14_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:119][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/14_-_Default]
+[2024.05.17-17.37.09:121][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/14_-_Default_Auto9
+[2024.05.17-17.37.09:121][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/14_-_Default_Auto9FC0CB0BC43421562E45EDF91FDE51C38.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/14_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:122][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/neon_sword_Tube001] ([1] browsable assets)...
+[2024.05.17-17.37.09:122][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/neon_sword_Tube001]
+[2024.05.17-17.37.09:125][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/neon_sword_Tube001_Auto9
+[2024.05.17-17.37.09:125][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/neon_sword_Tube001_Auto97462B1A042D350AAC05B38905196F207.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/neon_sword_Tube001_Auto9.uasset'
+[2024.05.17-17.37.09:126][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/21_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:126][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/21_-_Default]
+[2024.05.17-17.37.09:127][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/21_-_Default_Auto9
+[2024.05.17-17.37.09:128][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/21_-_Default_Auto9E79A79A247AC1CD1A312BFB34DD57DCE.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/21_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:128][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/20_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:128][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/20_-_Default]
+[2024.05.17-17.37.09:130][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/20_-_Default_Auto9
+[2024.05.17-17.37.09:130][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/20_-_Default_Auto9800340B443C67FC08CFE9A90BC591DE1.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/20_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:130][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/19_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:130][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/19_-_Default]
+[2024.05.17-17.37.09:131][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/19_-_Default_Auto9
+[2024.05.17-17.37.09:131][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/19_-_Default_Auto95664DC594B5911D500AFE3ADB228135E.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/19_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:132][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/08_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:132][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/08_-_Default]
+[2024.05.17-17.37.09:133][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/08_-_Default_Auto9
+[2024.05.17-17.37.09:133][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/08_-_Default_Auto9B8526B9D46215E203E87568EDF69CA66.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/08_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:134][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/02_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:134][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/02_-_Default]
+[2024.05.17-17.37.09:136][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/02_-_Default_Auto9
+[2024.05.17-17.37.09:136][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/02_-_Default_Auto93FFEAA6345B10770021987945BD17040.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/02_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:137][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/13_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:137][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/13_-_Default]
+[2024.05.17-17.37.09:138][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/13_-_Default_Auto9
+[2024.05.17-17.37.09:138][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/13_-_Default_Auto95FCC74B14848A5A9EE7309B2CFB97497.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/13_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:139][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/15_-_Default] ([1] browsable assets)...
+[2024.05.17-17.37.09:139][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/15_-_Default]
+[2024.05.17-17.37.09:140][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/15_-_Default_Auto9
+[2024.05.17-17.37.09:140][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/15_-_Default_Auto9D096EF6F44AFBB2656B3CFA7923AA356.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/15_-_Default_Auto9.uasset'
+[2024.05.17-17.37.09:141][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Ramen_soup_neon1] ([1] browsable assets)...
+[2024.05.17-17.37.09:141][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Ramen_soup_neon1]
+[2024.05.17-17.37.09:142][385]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Ramen_soup_neon1_Auto9
+[2024.05.17-17.37.09:142][385]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Ramen_soup_neon1_Auto9E6A8748B4D956642D296B5B2A72B8825.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Autosaves/Game/Models/Ramen_soup_neon1_Auto9.uasset'
+[2024.05.17-17.37.09:142][385]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.05.17-17.37.32:605][891]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.37.32:606][891]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.37.32:606][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.37.32:606][891]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.37.55:253][210]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-17.38.20:297][226]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.38.20:335][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.05.17-17.38.20:556][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-17.38.20:566][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.38.20:721][226]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.38.20:723][226]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_GraphBB4D75C64B7E3ACA422703A960D642BD.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.38.20:732][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 15.1 sec)
+[2024.05.17-17.38.20:733][226]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.38.20:733][226]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: MaxSampler: 246 instructions
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.38.20:734][226]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.38.23:109][324]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.38.23:109][324]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.17-17.38.23:109][324]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.38.23:109][324]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.38.32:079][533]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.38.32:079][533]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.38.32:079][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.38.32:079][533]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.38.33:335][603]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.38.33:373][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.05.17-17.38.33:935][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.05.17-17.38.33:946][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.38.35:103][603]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.38.35:103][603]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_Graph58A873F343576307F3C7FAAFA27246F8.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.38.35:107][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 16.2 sec)
+[2024.05.17-17.38.35:108][603]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.38.35:108][603]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: Base pass shader: 239 instructions
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: MaxSampler: 289 instructions
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.38.35:109][603]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.38.40:285][900]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.38.40:285][900]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.38.40:285][900]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.38.40:285][900]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Total job queries 1793, among them cache hits 1513 (84.38%)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 154 distinct outputs (55.00%)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: RAM used: 6,49 MiB of 819,20 MiB budget. Usage: 0.79%
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Shaders Compiled: 280
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Jobs assigned 280, completed 280 (100%)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Average time worker was idle: 250.09 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Shader code size: average 40,325 KiB, min 29,613 KiB, max 62,707 KiB
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.72 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Average processing rate: 9.75 jobs/sec
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Total thread time: 69,047 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Total thread preprocess time: 9,386 s
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Percentage time preprocessing: 13.59%
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.26 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.50% of total time (compiled   37 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.02% of total time (compiled   37 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.06% of total time (compiled   25 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.40% of total time (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.93% of total time (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.39.39:688][269]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: Base pass shader: 239 instructions
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.39.39:723][270]MaterialEditorStats: Shader Count: 4
+[2024.05.17-17.48.31:459][215]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.17-17.48.31:459][215]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.48.31:459][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.48.31:459][215]MaterialEditorStats: Shader Count: 0
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Total job queries 1801, among them cache hits 1521 (84.45%)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 154 distinct outputs (55.00%)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: RAM used: 6,49 MiB of 819,20 MiB budget. Usage: 0.79%
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Shaders Compiled: 280
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Jobs assigned 280, completed 280 (100%)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Average time worker was idle: 250.09 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Shader code size: average 40,325 KiB, min 29,613 KiB, max 62,707 KiB
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.72 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Average processing rate: 9.75 jobs/sec
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Total thread time: 69,047 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Total thread preprocess time: 9,386 s
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Percentage time preprocessing: 13.59%
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.26 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.50% of total time (compiled   37 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.02% of total time (compiled   37 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.06% of total time (compiled   25 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.40% of total time (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.93% of total time (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.48.31:507][216]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: Base pass shader: 239 instructions
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.48.33:870][349]MaterialEditorStats: Shader Count: 2
+[2024.05.17-17.49.10:580][576]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-17.51.46:301][989]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-17.56.02:846][370]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.17-17.56.12:829][896]LogMaterialEditor: Saving and Compiling material Hielo_Graph
+[2024.05.17-17.56.12:888][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Total job queries 1821, among them cache hits 1541 (84.62%)
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Tracking 280 distinct input hashes that result in 154 distinct outputs (55.00%)
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: RAM used: 6,49 MiB of 819,20 MiB budget. Usage: 0.79%
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Shaders Compiled: 280
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Jobs assigned 280, completed 280 (100%)
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Average time worker was idle: 250.09 s
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.86 s
+[2024.05.17-17.56.13:107][896]LogShaderCompilers: Display: Job execution time: average 0.40 s, max 1.26 s
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Job life time (pending + execution): average 0.54 s, max 1.30
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Shader code size: average 40,325 KiB, min 29,613 KiB, max 62,707 KiB
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 28.72 s
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Jobs were issued in 280 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Average processing rate: 9.75 jobs/sec
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Total thread time: 69,047 s
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Total thread preprocess time: 9,386 s
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Percentage time preprocessing: 13.59%
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Effective parallelization: 2.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.49 sec, min 0.24 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.26 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   13 times, average 0.31 sec, max 0.50 sec, min 0.25 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.50% of total time (compiled   37 times, average 0.25 sec, max 0.85 sec, min 0.14 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 13.02% of total time (compiled   37 times, average 0.24 sec, max 0.69 sec, min 0.17 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.06% of total time (compiled   25 times, average 0.25 sec, max 0.68 sec, min 0.17 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.40% of total time (compiled   13 times, average 0.34 sec, max 0.51 sec, min 0.27 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.93% of total time (compiled   13 times, average 0.31 sec, max 0.51 sec, min 0.25 sec)
+[2024.05.17-17.56.13:108][896]LogShaderCompilers: Display: ================================================
+[2024.05.17-17.56.13:114][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.05.17-17.56.13:125][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.17-17.56.13:286][896]LogSavePackage: Moving output files for package: /Game/Materials/Hielo/Hielo_Graph
+[2024.05.17-17.56.13:287][896]LogSavePackage: Moving '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/Hielo_Graph2F56D53340220619FB468C8B5510CF51.tmp' to '../../../../../../Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset'
+[2024.05.17-17.56.13:296][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 16.4 sec)
+[2024.05.17-17.56.13:298][896]AssetCheck: New page: Asset Save: Hielo_Graph
+[2024.05.17-17.56.13:298][896]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Hielo/Hielo_Graph.Hielo_Graph
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: Base pass shader: 239 instructions
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: MaxSampler: 289 instructions
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.17-17.56.13:299][896]MaterialEditorStats: Shader Count: 16
+[2024.05.17-17.56.42:401][371]LogSlate: Window 'Hielo_Graph' being destroyed
+[2024.05.17-17.56.42:410][371]LogSlate: Window 'Hielo_Graph' being destroyed
+[2024.05.17-17.56.42:424][371]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.05.17-17.56.42:424][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.17-17.56.44:585][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.17-17.56.44:598][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
