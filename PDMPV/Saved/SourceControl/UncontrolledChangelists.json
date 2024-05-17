@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/BaseColor.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Instance_Emmisive.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Cyan.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/I7/D6NX5EO8GR7BFD53Y1UCUT.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/9F/6KR93K6ITHOGKV9HLAMT0K.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/6B/ROMP8VPR2DX0EA8IHNZ7RO.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Cyan.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Green.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NA/79MUTDUWM34USSGOSRYDZP.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon_sign.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Metal.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/Ramen_soup_neon.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A8/NAM3DQO0TLPJDA30LRXJ3O.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_AO.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/source/neon_sign.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_BaseColor.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_Emissive.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_Metallic.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_Normal.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_Roughness.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_Mat.uasset"
+			]
+		}
+	]
+}
