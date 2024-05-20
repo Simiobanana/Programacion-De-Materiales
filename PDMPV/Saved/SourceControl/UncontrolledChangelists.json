@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/BaseColor.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive.uasset",
-				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Instance_Emmisive.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Emmisive_Cyan.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/I7/D6NX5EO8GR7BFD53Y1UCUT.uasset",
@@ -16,11 +15,8 @@
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Cyan.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/I_Emmisive_Green.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/NA/79MUTDUWM34USSGOSRYDZP.uasset",
-				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon_sign.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Metal.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3E/SOSBL9K9ALL8LPDWZIEZIM.uasset",
-				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/Ramen_soup_neon.uasset",
-				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A8/NAM3DQO0TLPJDA30LRXJ3O.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_AO.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/source/neon_sign.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon-sign/textures/low_Neon_sign_BaseColor.uasset",
@@ -43,7 +39,15 @@
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/RI/UNWHOVCTTQMGFWHZI4DLY7.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/Hielo_Graph.uasset",
 				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/T_PerlinNoise.uasset",
-				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/ICE_Normal.uasset"
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Hielo/ICE_Normal.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/ThirdPerson/Maps/MotoresComerciales.umap",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Levels/MotoresComerciales.umap",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Blueprints/Table.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/ThirdPerson/Maps/MotoresGraficos.umap",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Materials/Instance_Emmisive.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/neon_sign.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/Models/Ramen_soup_neon.uasset",
+				"C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/A8/NAM3DQO0TLPJDA30LRXJ3O.uasset"
 			]
 		}
 	]
