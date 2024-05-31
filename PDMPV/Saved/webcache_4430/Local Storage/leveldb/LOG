@@ -1,3 +1,6 @@
-2024/05/26-18:08:16.258 53fc Reusing MANIFEST C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/05/26-18:08:16.266 53fc Recovering log #3
-2024/05/26-18:08:16.266 53fc Reusing old log C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/31-09:01:30.652 2780 Reusing MANIFEST C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/31-09:01:30.653 2780 Recovering log #3
+2024/05/31-09:01:30.654 2780 Reusing old log C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/05/31-09:05:09.064 b2c Level-0 table #5: started
+2024/05/31-09:05:09.066 b2c Level-0 table #5: 14621 bytes OK
+2024/05/31-09:05:09.067 b2c Delete type=0 #3
