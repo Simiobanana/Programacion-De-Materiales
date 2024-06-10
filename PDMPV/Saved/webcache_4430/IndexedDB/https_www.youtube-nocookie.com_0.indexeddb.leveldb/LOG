@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+2024/05/26-18:10:49.781 2198 Reusing MANIFEST C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/26-18:10:49.781 2198 Recovering log #4
+2024/05/26-18:10:49.781 2198 Reusing old log C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/05/26-18:14:59.484 5670 Level-0 table #8: started
+2024/05/26-18:14:59.484 5670 Level-0 table #8: 0 bytes OK
+2024/05/26-18:14:59.485 5670 Delete type=0 #4
+2024/05/26-18:14:59.485 5670 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/26-18:14:59.485 5670 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+=======
 2024/05/31-09:04:09.067 14dc Reusing MANIFEST C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
 2024/05/31-09:04:09.067 14dc Recovering log #4
 2024/05/31-09:04:09.067 14dc Reusing old log C:/Users/betou/Escola/Cuahutemoc/ProgramacionDeMateriales/Programacion-De-Materiales/PDMPV/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+>>>>>>> main
